@@ -1,7 +1,7 @@
 # Crabada  Dmint Tutorial
 Due to the advanced payments rules , only support Atomical-js Command CLI.
 ## Install
-Download the github repo:
+`Download the github repo:
 git clone https://github.com/atomicals/atomicals-js.git
 
 Build:
@@ -13,7 +13,7 @@ yarn run build
 
 See all commands at:
 
-yarn run cli --help
+yarn run cli --help `
 
 ## Create the wallet:
 
