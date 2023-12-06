@@ -5,8 +5,8 @@ Download the github repo:
 git clone https://github.com/atomicals/atomicals-js.git
 
 Build:
-## If you don't have yarn installed
-## npm install -g yarn
+ If you don't have yarn installed
+ npm install -g yarn
 
 yarn install
 yarn run build
