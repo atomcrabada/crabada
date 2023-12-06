@@ -29,3 +29,7 @@ Derive Path: m/44'/0'/0'/0/0
 WIF: L5Sa65gNR6QsBjqK.....r6o4YzcqNRnJ1p4a6GPxqQQ
 ------------------------------------------------------
 ```
+
+## Download Json File 
+Go the Wizz Wallet Website : https://wizz.cash/dmint/crabada
+<img width="1148" alt="image" src="https://github.com/atomcrabada/crabada/assets/152573630/9923a445-17ec-40a4-b47a-d4f5cbddf283">
